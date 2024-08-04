@@ -1,0 +1,10 @@
+/* Apply styles to the whole site */
+body {
+  background: linear-gradient(0deg, #13102e 0%, #000000 100%);
+  border: 4px solid #00eeff;
+  box-shadow: 5px 5px 10px 1px #0084ff;
+  color: #00bdbd;
+  list-style: decimal-leading-zero outside;
+  filter: blur(1px);
+  overflow: hidden;
+}
